@@ -1,9 +1,9 @@
 webpackHotUpdate("styles",{
 
-/***/ "./styles/list.css":
-/*!*************************!*\
-  !*** ./styles/list.css ***!
-  \*************************/
+/***/ "./styles/index.scss":
+/*!***************************!*\
+  !*** ./styles/index.scss ***!
+  \***************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -29,7 +29,7 @@ webpackHotUpdate("styles",{
           .querySelectorAll("link[href][rel=stylesheet]")
           .forEach(function(link) {
             if (!link.href.match(prefix) || link.stale) return;
-            injectCss(link, link.href.split("?")[0] + "?unix=1561290588214");
+            injectCss(link, link.href.split("?")[0] + "?unix=1561302568354");
           });
       }
     }
@@ -38,4 +38,4 @@ webpackHotUpdate("styles",{
 /***/ })
 
 })
-//# sourceMappingURL=styles.71ac231849f9ad5f3ba3.hot-update.js.map
+//# sourceMappingURL=styles.44998829597b6affadb9.hot-update.js.map
