@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/styles.chunk.css","sources":["webpack:///./styles/list.css","webpack:///./styles/index.scss"],"sourcesContent":["li {\r\n    border-bottom:1px solid #333;\r\n}","h1 {\n  background: red; }\n"],"mappings":"AAAA;AACA;AACA;ACFA;AACA;;","sourceRoot":""}
